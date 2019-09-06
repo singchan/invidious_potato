@@ -6,4 +6,4 @@ title: Athena Jekyll Theme
 ---
 A simple and elegant theme for Jekyll and GitHub Pages.
 
-See another [page here](/oooo)
+See another [page here](./oooo)
